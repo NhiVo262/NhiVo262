@@ -1,18 +1,16 @@
 <div align="center">
-# Hi, I'm Nhat Tran 
+# Hi, I'm Nhi Vo 
 </div>
 
 <div align="left">
 ✨ Research & engineering platforms for **autonomous vehicles** and **drones**<br>
-📫 Perception · Localization · Sensor Fusion<br>
+📫 Control · Localization ·
 🎓 Teaching STEM & mentoring robotics students at **EIU FabLab**, Ho Chi Minh City 🇻🇳<br>
 🌱 Passionate about applying emerging tech to autonomous systems
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/NhatTran-97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@NhatTran-b8g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://github.com/NhiVo262"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
