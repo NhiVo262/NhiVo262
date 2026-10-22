@@ -149,7 +149,6 @@ Ho Chi Minh City University of Technology (HCMUT), VNU-HCM
 Vietnam National University, Ho Chi Minh City
 
 **Major:** Control and Automation Engineering  
-**GPA:** 3.2 / 4.0
 
 ---
 
